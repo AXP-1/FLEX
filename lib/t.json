@@ -1,0 +1,81 @@
+[
+    {
+        "id": 7,
+        "content": "hello",
+        "image": null,
+        "created_at": "2024-10-26T16:25:42.448594+00:00",
+        "comment_count": 0,
+        "like_count": 0,
+        "user_id": "51fe2a10-e4ea-4d6f-a3cd-3c84f4207ca3",
+        "user": {
+            "email": "axp.1@gmail.com",
+            "metadata": {
+                "sub": "51fe2a10-e4ea-4d6f-a3cd-3c84f4207ca3",
+                "name": "Abadi Nour Fawzi",
+                "email": "axp.1@gmail.com",
+                "image": "flex_s3/51fe2a10-e4ea-4d6f-a3cd-3c84f4207ca3/profile.jpg",
+                "metadata": {
+                    "sub": "51fe2a10-e4ea-4d6f-a3cd-3c84f4207ca3",
+                    "name": "Abadi Nour Fawzi",
+                    "email": "axp.1@gmail.com",
+                    "image": "flex_s3/51fe2a10-e4ea-4d6f-a3cd-3c84f4207ca3/profile.jpg",
+                    "following": [
+                        "f8e71c1a-bf3c-4695-aef3-5b1e0cce6583"
+                    ],
+                    "description": "حساب تجربة",
+                    "email_verified": false,
+                    "phone_verified": false
+                },
+                "following": [
+                    "f8e71c1a-bf3c-4695-aef3-5b1e0cce6583"
+                ],
+                "description": "حساب تجربة",
+                "email_verified": false,
+                "phone_verified": false
+            }
+        },
+        "likes": []
+    },
+    {
+        "id": 5,
+        "content": "تجربة جديدة للمنشورات",
+        "image": null,
+        "created_at": "2024-10-24T14:44:56.209321+00:00",
+        "comment_count": 0,
+        "like_count": 1,
+        "user_id": "51fe2a10-e4ea-4d6f-a3cd-3c84f4207ca3",
+        "user": {
+            "email": "axp.1@gmail.com",
+            "metadata": {
+                "sub": "51fe2a10-e4ea-4d6f-a3cd-3c84f4207ca3",
+                "name": "Abadi Nour Fawzi",
+                "email": "axp.1@gmail.com",
+                "image": "flex_s3/51fe2a10-e4ea-4d6f-a3cd-3c84f4207ca3/profile.jpg",
+                "metadata": {
+                    "sub": "51fe2a10-e4ea-4d6f-a3cd-3c84f4207ca3",
+                    "name": "Abadi Nour Fawzi",
+                    "email": "axp.1@gmail.com",
+                    "image": "flex_s3/51fe2a10-e4ea-4d6f-a3cd-3c84f4207ca3/profile.jpg",
+                    "following": [
+                        "f8e71c1a-bf3c-4695-aef3-5b1e0cce6583"
+                    ],
+                    "description": "حساب تجربة",
+                    "email_verified": false,
+                    "phone_verified": false
+                },
+                "following": [
+                    "f8e71c1a-bf3c-4695-aef3-5b1e0cce6583"
+                ],
+                "description": "حساب تجربة",
+                "email_verified": false,
+                "phone_verified": false
+            }
+        },
+        "likes": [
+            {
+                "post_id": 5,
+                "user_id": "51fe2a10-e4ea-4d6f-a3cd-3c84f4207ca3"
+            }
+        ]
+    }
+]
